@@ -1,2 +1,2 @@
 print('SAKODA')
-pirnt('aa')
+print('aa')
